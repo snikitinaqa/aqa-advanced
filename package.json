@@ -1,0 +1,23 @@
+{
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "homework lesson 3.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snikitinaqa/aqa-advanced.git"
+  },
+  "author": "Svitlana Nikitina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snikitinaqa/aqa-advanced/issues"
+  },
+  "homepage": "https://github.com/snikitinaqa/aqa-advanced#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
